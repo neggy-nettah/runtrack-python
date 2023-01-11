@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3517fa1-5213-42fd-97b3-85bae9c2ba20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/job01/job01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job02/job02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job03/job03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job04/job04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job05/job05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/job06/job06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/jour_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/Job_3/add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/Job_3/add2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/bonus/bonus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_1/My_print_hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_2/My_print_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_4/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_5/calcule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_6/number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_7/langage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_8/job8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/bonus/pour_aller_plus_loin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job4/alphabet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job5/reversed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job6/ma_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job7/variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job8/variable_2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K5rioYfhmCAUjvhE7uWosGqOo0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/neggynettah/Documents/laplateforme/projet/runtrack-python/python/jour05"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.job03">
+    <configuration name="job01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jour05" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/job01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/job01/job01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="job02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jour05" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/job02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/job02/job02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="job03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jour05" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/job03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/job03/job03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="jour05" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.job03" />
+        <item itemvalue="Python.job02" />
+        <item itemvalue="Python.job01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3517fa1-5213-42fd-97b3-85bae9c2ba20" name="Changes" comment="" />
+      <created>1673275414902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673275414902</updated>
+    </task>
+    <servers />
+  </component>
+</project>

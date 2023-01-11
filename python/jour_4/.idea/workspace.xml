@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d329c3f-b816-4365-a7a0-31937a00ba8a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/jour_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/Job_3/add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/Job_3/add2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/bonus/bonus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_1/My_print_hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_2/My_print_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_4/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_5/calcule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_6/number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_7/langage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jour_2/job_8/job8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/bonus/pour_aller_plus_loin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job4/alphabet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job5/reversed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job6/ma_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job7/variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jours_1/job8/variable_2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K5fkBAssoy1GOJEDdXZzowubfl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/neggynettah/Documents/laplateforme/projet/runtrack-python/python/jour_4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d329c3f-b816-4365-a7a0-31937a00ba8a" name="Changes" comment="" />
+      <created>1673269504955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673269504955</updated>
+    </task>
+    <servers />
+  </component>
+</project>
